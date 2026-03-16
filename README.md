@@ -25,12 +25,12 @@ An interactive interface is built using Gradio so users can enter values and ins
 
 ## 🧠 Machine Learning Workflow
 
-1️⃣ Data Collection
-2️⃣ Data Preprocessing
-3️⃣ Feature Scaling
-4️⃣ Model Training
-5️⃣ Prediction
-6️⃣ Visualization
+- 1️⃣ Data Collection
+- 2️⃣ Data Preprocessing
+- 3️⃣ Feature Scaling
+- 4️⃣ Model Training
+- 5️⃣ Prediction
+- 6️⃣ Visualization
 
 ---
 
@@ -47,11 +47,11 @@ An interactive interface is built using Gradio so users can enter values and ins
 
 ## 📈 Project Features
 
-✅ Transformer health prediction
-✅ Interactive user interface
-✅ Data visualization
-✅ Real-time parameter input
-✅ ML classification model
+- ✅ Transformer health prediction
+- ✅ Interactive user interface
+- ✅ Data visualization
+- ✅ Real-time parameter input
+- ✅ ML classification model
 
 ---
 
