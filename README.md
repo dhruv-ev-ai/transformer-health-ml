@@ -70,10 +70,10 @@ The model will predict the **transformer condition (Healthy / Warning / Faulty)*
 
 ## 🎯 Future Improvements
 
--🔹 Add real transformer sensor data
--🔹 Deploy the model online
--🔹 Add deep learning models
--🔹 Create a web dashboard
+- 🔹 Add real transformer sensor data
+- 🔹 Deploy the model online
+- 🔹 Add deep learning models
+- 🔹 Create a web dashboard
 
 ---
 
