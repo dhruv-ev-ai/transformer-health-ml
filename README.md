@@ -57,22 +57,23 @@ An interactive interface is built using Gradio so users can enter values and ins
 
 ## 📊 Example Input Parameters
 
-Parameter| Example
-Temperature| 65°C
-Load Current| 120A
-Voltage| 230V
-Oil Level| 75%
+| Parameter       | Example |
+|-----------------|---------|
+| 🌡 Temperature  | 65°C    |
+| ⚡ Load Current | 120A    |
+| 🔌 Voltage      | 230V    |
+| 🛢 Oil Level    | 75%     |
 
-The model will predict the transformer condition.
+The model will predict the **transformer condition (Healthy / Warning / Faulty)** based on these inputs.
 
 ---
 
 ## 🎯 Future Improvements
 
-🔹 Add real transformer sensor data
-🔹 Deploy the model online
-🔹 Add deep learning models
-🔹 Create a web dashboard
+-🔹 Add real transformer sensor data
+-🔹 Deploy the model online
+-🔹 Add deep learning models
+-🔹 Create a web dashboard
 
 ---
 
